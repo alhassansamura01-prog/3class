@@ -31,11 +31,18 @@
 }
 .main {
   width: 100%;
+<<<<<<< HEAD
   height: 750px;
   display: flex;
   gap: 50px;
   margin: 20px;
   align-items: center;
+=======
+  height: 500px;
+  display: flex;
+  gap: 50px;
+  margin: 20px;
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
   justify-content: space-around;
 }
 .img_div img {
@@ -45,8 +52,12 @@
   object-fit: cover;
 }
 .text_div {
+<<<<<<< HEAD
   width: 800px;
 
+=======
+  width: 400px;
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
   display: flex;
   gap: 30px;
   flex-direction: column;
@@ -61,18 +72,29 @@
 }
 .text_div p {
   font-size: 18px;
+<<<<<<< HEAD
   font-weight: 500px;
+=======
+  font-weight: 400;
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
   font-style: italic;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: rgb(red, green, blue);
 }
 .text_div button {
+<<<<<<< HEAD
+=======
+  padding: 20px;
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
   background-color: gold;
   color: black;
   border: none;
   border-radius: 10px;
   font-style: italic;
+<<<<<<< HEAD
   width: 200px;
+=======
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
 }
 .boxes {
   display: flex;
@@ -92,6 +114,7 @@
   padding: 20px;
   display: flex;
   flex-direction: column;
+<<<<<<< HEAD
   gap: 20px;
 }
 .box_2 {
@@ -99,6 +122,11 @@
   align-items: center;
   display: flex;
   flex-direction: column;
+=======
+  align-items: center;
+  gap: 20px;
+  border-radius: 10px;
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
 }
 
 .heading_1 {
@@ -124,7 +152,10 @@
 }
 .service {
   margin-bottom: 100px;
+<<<<<<< HEAD
   margin-top: 100px;
+=======
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
 }
 .cards {
   display: flex;
@@ -152,6 +183,7 @@
   cursor: pointer;
   align-items: center;
 }
+<<<<<<< HEAD
 .contact_container {
   border: 5px solid red;
   width: 100%;
@@ -233,3 +265,5 @@ textarea {
   cursor: pointer;
   color: wheat;
 }
+=======
+>>>>>>> c9e619b1b0e495856ce64a65a10c7c716819e0a4
